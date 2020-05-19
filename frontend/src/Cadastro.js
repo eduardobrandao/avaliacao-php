@@ -33,15 +33,10 @@ function Cadastro() {
                         <input name="email" id="email" required />
                     </div>
                     <button type="submit"> Salvar </button>
-                    <div>
-                        <a
-                            className="App-link"
-                            href="/"
-                            rel="noopener noreferrer"
-                        >
-                            Fazer Login
-                        </a>
-                    </div>
+
+                    <a className="App-link" href="/" rel="noopener noreferrer">
+                        Fazer Login
+                    </a>
                 </form>
             </aside>
         </div>
